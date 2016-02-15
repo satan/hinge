@@ -1,0 +1,13 @@
+STRINGTABLE Bones06
+{
+	Bones06 "Bones06";
+
+	
+	BONES06_GLOBAL_SCALE "global_scale";
+	BONES06_HINGE_EXTENSION_LEFT "hinge_extension_left";
+	BONES06_HINGE_EXTENSION_RIGHT "hinge_extension_right";
+	BONES06_HINGE_THICKNESS "hinge_thickness";
+	BONES06_HINGE_WRAP "hinge_wrap";
+	BONES06_HINGE_ANCHOR_EXTENSION "hinge_anchor_extension";
+
+}
